@@ -1,0 +1,118 @@
+{
+  "rolls": 1,
+  "npcIdentifiers": [
+      319
+  ],
+  "staticDrops": [
+  ],
+  "dynamicDrops": [
+    {
+      "itemID": 12823,
+      "hitRollCeil": 0.115,
+      "maxAmount": 1,
+      "minAmount": 1
+    }, 
+	{
+      "itemID": 12827,
+      "hitRollCeil": 0.11,
+      "maxAmount": 1,
+      "minAmount": 1
+    }, 
+	{
+      "itemID": 12819,
+      "hitRollCeil": 0.1,
+      "maxAmount": 1,
+      "minAmount": 1
+    }, 
+	{
+      "itemID": 995,
+      "hitRollCeil": 15.00,
+      "maxAmount": 100000,
+      "minAmount": 50000
+    },	
+	{
+      "itemID": 12829,
+      "hitRollCeil": 1.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 9245,
+      "hitRollCeil": 6.00,
+      "maxAmount": 175,
+      "minAmount": 175
+    },
+	{
+      "itemID": 1437,
+      "hitRollCeil": 60.00,
+      "maxAmount": 2500,
+      "minAmount": 2500
+    },
+	{
+      "itemID": 450,
+      "hitRollCeil": 60.00,
+      "maxAmount": 125,
+      "minAmount": 125
+    },
+	{
+      "itemID": 452,
+      "hitRollCeil": 60.00,
+      "maxAmount": 25,
+      "minAmount": 25
+    },
+	{
+      "itemID": 2362,
+      "hitRollCeil": 60.00,
+      "maxAmount": 25,
+      "minAmount": 25
+    },
+	{
+      "itemID": 1514,
+      "hitRollCeil": 60.00,
+      "maxAmount": 75,
+      "minAmount": 75
+    },
+	{
+      "itemID": 1754,
+      "hitRollCeil": 60.00,
+      "maxAmount": 100,
+      "minAmount": 100
+    },
+	{
+      "itemID": 384,
+      "hitRollCeil": 60.00,
+      "maxAmount": 70,
+      "minAmount": 70
+    },
+	{
+      "itemID": 391,
+      "hitRollCeil": 1.00,
+      "maxAmount": 30,
+      "minAmount": 30
+    },
+	{
+      "itemID": 12816,
+      "hitRollCeil": 0.1,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 2713,
+      "hitRollCeil": 5.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 2710,
+      "hitRollCeil": 5.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 2707,
+      "hitRollCeil": 5.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "rolls": 2,
+  "npcIdentifiers": [
+      2267
+  ],
+  "staticDrops": [
+    {
+      "itemID": 6729,
+      "hitRollCeil": 100.0,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 6155,
+      "hitRollCeil": 100.0,
+      "maxAmount": 1,
+      "minAmount": 1
+    }
+  ],
+  "dynamicDrops": [
+    {
+      "itemID": 3757,
+      "hitRollCeil": 20.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },  
+	{
+      "itemID": 6739,
+      "hitRollCeil": 0.78125,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 3758,
+      "hitRollCeil": 15.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    }, 
+	{
+      "itemID": 3748,
+      "hitRollCeil": 15.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 6129,
+      "hitRollCeil": 15.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 6130,
+      "hitRollCeil": 15.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 6737,
+      "hitRollCeil": 0.78125,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 6735,
+      "hitRollCeil": 0.78125,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 454,
+      "hitRollCeil": 20.00,
+      "maxAmount": 100,
+      "minAmount": 100
+    },
+	{
+      "itemID": 12645,
+      "hitRollCeil": 0.1,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 5298,
+      "hitRollCeil": 25.00,
+      "maxAmount": 2,
+      "minAmount": 1
+    },
+	{
+      "itemID": 5299,
+      "hitRollCeil": 25.00,
+      "maxAmount": 2,
+      "minAmount": 1
+    },
+	{
+      "itemID": 5300,
+      "hitRollCeil": 25.00,
+      "maxAmount": 2,
+      "minAmount": 1
+    },
+	{
+      "itemID": 5301,
+      "hitRollCeil": 25.00,
+      "maxAmount": 2,
+      "minAmount": 1
+    },
+	{
+      "itemID": 2713,
+      "hitRollCeil": 5.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 2709,
+      "hitRollCeil": 5.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 2693,
+      "hitRollCeil": 7.00,
+      "maxAmount": 1,
+      "minAmount": 1
+    },
+	{
+      "itemID": 6562,
+      "hitRollCeil": 0.78125,
+      "maxAmount": 1,
+      "minAmount": 1
+    },  
+  ]
+}

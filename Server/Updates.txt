@@ -1,0 +1,16 @@
+added trident spell
+added zulrah movement anim + drops
+Added corp animations + combat formula + drops
+Converted all drops to json
+Fixed duel arena dupe
+Added Zulrah Attack anims
+Converted definitions to JSON
+Moved kraken to proper place instead of shitty monkfish spot.
+Finished Corp combat script "FOR NOW!"
+Put corp in the tele etc.
+Added Zulrah Boss System
+Added Zulrah Death Anims
+Made zulrah instanced
+Made zulrah have snakelings
+Added player file backup system can be used for emergency's. Prevents loss of playerfiles
+Done donation system
